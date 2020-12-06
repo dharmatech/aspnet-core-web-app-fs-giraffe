@@ -21,3 +21,5 @@ simulates a runtime exception:
 Enter the following to run the app:
 
     dotnet watch run
+
+The code for the app is in [Program.fs](https://github.com/dharmatech/aspnet-core-web-app-fs-giraffe/blob/main/Program.fs).
