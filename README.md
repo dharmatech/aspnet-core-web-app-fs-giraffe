@@ -18,3 +18,6 @@ simulates a runtime exception:
 
 <img src="https://i.imgur.com/eoeBRVG.png" width="500">
 
+Enter the following to run the app:
+
+    dotnet watch run
